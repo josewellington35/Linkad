@@ -1,0 +1,1 @@
+CREATE TABLE `foto` ( `nome_imagem` varchar(100) NOT NULL )

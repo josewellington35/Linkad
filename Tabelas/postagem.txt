@@ -1,0 +1,2 @@
+CREATE TABLE `postagem` ( `id` int(100) NOT NULL, `foto` varchar(100) NOT NULL,
+ `mensagem` varchar(200) NOT NULL, `idacademia` int(100) NOT NULL )

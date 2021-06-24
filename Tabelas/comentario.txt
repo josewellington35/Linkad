@@ -1,0 +1,2 @@
+CREATE TABLE `comentario` ( `id` int(100) NOT NULL, `comentario` varchar(500) NOT NULL, `idusuario` int(100) NOT NULL, `idpostagem` 
+int(100) NOT NULL, `datacomentario` varchar(100) NOT NULL )

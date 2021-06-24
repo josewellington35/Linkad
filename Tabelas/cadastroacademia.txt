@@ -1,0 +1,9 @@
+
+
+
+CREATE TABLE `cadastroacademia` ( `id` int(11) NOT NULL, `nomeacademia`
+ varchar(100) NOT NULL, `cnpj` varchar(100) NOT NULL, `email` varchar(100) NOT NULL,
+ `modalidades` varchar(100) NOT NULL, `telefone` varchar(100) NOT NULL, 
+`site` varchar(100) NOT NULL, `descricao` varchar(100) NOT NULL, 
+`imagens` varchar(100) NOT NULL, `senha` varchar(100) NOT NULL, 
+`endereco` varchar(200) NOT NULL )

@@ -1,0 +1,5 @@
+CREATE TABLE `enderecoacademia` ( `id` int(11) NOT NULL, `cep` int(11)
+ DEFAULT NULL, `endereco` varchar(220) DEFAULT NULL, `numero` 
+varchar(10) DEFAULT NULL, `complemento` varchar(120) DEFAULT NULL,
+ `bairro` varchar(220) DEFAULT NULL, `cidade` varchar(220) DEFAULT NULL, 
+`estado` varchar(2) DEFAULT NULL, `idacademia` int(100) NOT NULL 
